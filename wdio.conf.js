@@ -136,7 +136,7 @@ exports.config = {
 
         outputDir: './reports'
 
-    }],['allure', {outputDir: 'allure-results'}],'video'],
+    }]],
 
 
     
